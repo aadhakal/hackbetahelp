@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>HelpR</title>
+        <title>HackBeta</title>
         <meta
           name="description"
           content="Online Mentorship Queue For Hackathon Participants"
