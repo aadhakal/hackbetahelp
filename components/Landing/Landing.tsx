@@ -17,7 +17,7 @@ export default function Landing() {
     >
       <div className="welcomem mt-48 md:mt-0">
         <p className="text-center relative bottom-[20px] font-bold text-4xl sm:text-[65px] pb-6">
-          Welcome to HelpR
+          Welcome to HackBetaHelp
         </p>
         <p className="text-center font-medium pb-8 px-2 text-lg sm:text-2xl">
           A one-stop shop to get help and ask questions.
@@ -33,7 +33,7 @@ export default function Landing() {
       </div>
       <div className="absolute flex justify-center bottom-8 w-full text-center">
         <a
-          href="https://tamuhack.com"
+          href="https://hack.cs.olemiss.edu"
           target="_blank"
           rel="noopener noreferrer"
         >
