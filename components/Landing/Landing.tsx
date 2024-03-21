@@ -38,7 +38,7 @@ export default function Landing() {
           rel="noopener noreferrer"
         >
           <Image
-            src="/images/tamuhack.png"
+            src="/images/Hackbeta.png"
             alt="cloudy background"
             width={100}
             height={100}
