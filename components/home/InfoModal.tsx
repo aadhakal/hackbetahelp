@@ -30,7 +30,7 @@ export default function InfoModal({ email }: { email: string }) {
               the event. Submit a ticket and a mentor will arrive shortly!
             </p>
             <p className="my-4 text-gray-700">
-              If you are a mentor, please show your QR code to a TAMUhack team
+              If you are a mentor, please show your QR code to a HackBeta team
               member to check in and receive mentor privileges.
             </p>
             <div className="h-auto mx-auto max-w-[128px] w-full mb-4">
