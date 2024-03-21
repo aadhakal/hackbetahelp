@@ -26,8 +26,9 @@ export default function InfoModal({ email }: { email: string }) {
           <ModalCloseButton />
           <ModalBody>
             <p className="text-gray-700">
-              HelpR allows hackathon participants to request mentoring during
-              the event. Submit a ticket and a mentor will arrive shortly!
+              HackBetaHelp allows hackathon participants to request mentoring
+              during the event. Submit a ticket and a mentor will arrive
+              shortly!
             </p>
             <p className="my-4 text-gray-700">
               If you are a mentor, please show your QR code to a HackBeta team
