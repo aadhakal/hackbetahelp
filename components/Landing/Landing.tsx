@@ -44,6 +44,21 @@ export default function Landing() {
             height={100}
           />
         </a>
+        <p
+          style={{
+            fontSize: 'smaller',
+            color: 'gray',
+            textShadow: '2px 2px 4px #aaa',
+          }}
+        >
+          Inspired by{' '}
+          <a
+            href="https://dev.tamuhack.org/"
+            style={{ color: 'gray', textDecoration: 'none' }}
+          >
+            TamuHack
+          </a>
+        </p>
       </div>
     </div>
   );

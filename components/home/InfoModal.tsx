@@ -22,7 +22,7 @@ export default function InfoModal({ email }: { email: string }) {
       <Modal size="xs" isOpen={isOpen} onClose={onClose} isCentered>
         <ModalOverlay />
         <ModalContent>
-          <ModalHeader>About HelpR</ModalHeader>
+          <ModalHeader>About HackBetaHelp</ModalHeader>
           <ModalCloseButton />
           <ModalBody>
             <p className="text-gray-700">
