@@ -1,4 +1,23 @@
-# HelpR
+# HackbetaHelp Guide
+
+## For Participants:
+1. **Submit Tickets:** When you encounter a problem or need advice, submit a ticket through HackbetaHelp.
+2. **Ticket Details:** In your ticket, describe your issue, where you are, and how to contact you. This helps us help you faster.
+
+## For Mentors:
+1. **Claim Tickets:** Browse the ticket queue and claim those you can solve.
+2. **Provide Help:** Your expertise helps participants directly, making the mentorship process efficient.
+
+## Improvements in HackbetaHelp:
+- **Interface Customizations:** We've updated the look to better fit Hackbeta and your needs.
+- **Security and Bug Fixes:** We've improved security measures and fixed bugs to ensure everything runs smoothly based on our needs.
+
+
+
+*This system is built on the foundation provided by HelpR, customized to enhance the Hackbeta experience.*
+## Acknowledgment to HelpR:
+
+We want to say a big thank you to the original HelpR tool from TAMUhack. Because of their great work, we could create HackbetaHelp. It helps us a lot during Hackbeta, making sure everyone can get help when they need it and keep learning and having fun.
 
 ## What is HelpR?
 
